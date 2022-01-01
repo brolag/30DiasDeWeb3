@@ -8,4 +8,6 @@ Te doy la bienvenida al reto #30DiasDeWeb3, una lista de recursos sobre web3 cui
 
 ### Día 1 - ¿Qué es la Web 3?
 
+Aprende que significa la web3 y por que es importante.
+
 - [¿Qué es la Web3? El futuro de Internet](https://youtu.be/-FZGPzn0KL4) por [Christian Van Der Henst](https://twitter.com/cvander)
